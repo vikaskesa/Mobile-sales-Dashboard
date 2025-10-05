@@ -71,11 +71,12 @@ It includes details about customers, sales performance, and payment methods, ena
 
 ## 🖥️ 5. Output
 ### Power BI Dashboard  
+Overview of the Sales
 <img width="1298" height="733" alt="Screenshot 2025-10-05 122856" src="https://github.com/user-attachments/assets/40215656-0b1e-4105-8899-36d85f78f07d" />
+MTD Report
 <img width="1294" height="731" alt="Screenshot 2025-10-05 122910" src="https://github.com/user-attachments/assets/38de4bf1-8a1e-4849-ace8-4c9d54ba1d19" />
+Same Period Last Year
 <img width="1303" height="734" alt="Screenshot 2025-10-05 123015" src="https://github.com/user-attachments/assets/00b2ffe0-2485-4368-9cb4-e1e89112c4b2" />
-
-
 
 
 **Key Visuals:**  
